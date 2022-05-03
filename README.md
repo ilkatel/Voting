@@ -110,4 +110,4 @@ _Помимо этого, важно отметить, что далеко не 
 
 Текущий адрес развернутого контракта [0x0Fb063EfA85288732dc4a5606a4c44c083eEEcdc](https://rinkeby.etherscan.io/address/0x0Fb063EfA85288732dc4a5606a4c44c083eEEcdc)
 
-Автор <span style="color: red">ilkatel</span>
+@@ by ilkatel @@
